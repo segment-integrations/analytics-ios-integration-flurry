@@ -1,5 +1,6 @@
 # Analytics
 
+[![CircleCI](https://circleci.com/gh/segment-integrations/analytics-ios-integration-flurry.svg?style=svg)](https://circleci.com/gh/segment-integrations/analytics-ios-integration-flurry)
 [![Version](https://img.shields.io/cocoapods/v/Segment-Flurry.svg?style=flat)](http://cocoapods.org/pods/Segment-Flurry)
 [![License](https://img.shields.io/cocoapods/l/Segment-Flurry.svg?style=flat)](http://cocoapods.org/pods/Segment-Flurry)
 

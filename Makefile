@@ -1,5 +1,3 @@
-XCPRETTY := xcpretty -c && exit ${PIPESTATUS[0]}
-
 SDK ?= "iphonesimulator"
 DESTINATION ?= "platform=iOS Simulator,name=iPhone 7"
 PROJECT := Segment-Flurry

@@ -1,7 +1,7 @@
 Change Log
 ==========
 
-Version 2.0.0 *(14th April, 2020)*
+Version 2.0.1 *(14th April, 2020)*
 -------------------------------------------
 *(Supports Flury 10.2.0+)*
 
